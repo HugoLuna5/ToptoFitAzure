@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <domain includeSubdomains="true">https://southcentralus.api.cognitive.microsoft.com</domain>
+        <domain includeSubdomains="true">southcentralus.api.cognitive.microsoft.com</domain>
+        <domain includeSubdomains="true">https://api.cognitive.microsoft.com</domain>
+        <domain includeSubdomains="true">https://cognitive.microsoft.com</domain>
+        <domain includeSubdomains="true">https://microsoft.com</domain>
+        <domain includeSubdomains="true">https://southcentralus.api.cognitive.microsoft.com/customvision/v3.0/Prediction/7d757196-5f59-43bb-867b-ea364e7d54ad/classify/iterations/ToptoFit%201/url</domain>
+    </domain-config>
+</network-security-config>
