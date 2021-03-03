@@ -22,4 +22,4 @@ Para desarrollar en este momento esta solución de IA, use los servicios cogniti
 ![Predictions API](https://github.com/HugoLuna5/ToptoFitAzure/blob/1b7f77d4818f312a54630918e2b1f8233f0a80f7/img/2.png "API Predictions")
 
 ## Modelo
-![Modelo](https://github.com/HugoLuna5/ToptoFitAzure/blob/1b7f77d4818f312a54630918e2b1f8233f0a80f7/img/2.png "Modelo")
+![Modelo](https://github.com/HugoLuna5/ToptoFitAzure/blob/e6690042159fbbeab8e2de4de645a11c5ca34092/img/1.png "Modelo")
